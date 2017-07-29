@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>tool.automation.user</groupId>
+  <artifactId>toolsautomation</artifactId>
+  <version>0.1.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20170712205638</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>0.1.0.BUILD-SNAPSHOT</value>
+        <updated>20170712205638</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1.0.BUILD-SNAPSHOT</value>
+        <updated>20170712205638</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
